@@ -1,2 +1,2 @@
 # HTML-CV
-CV Buit using HTML
+CV Built using HTML
